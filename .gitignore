@@ -5,7 +5,10 @@
 # Unignore self and assets :P
 !.gitignore
 !assets
+!assets/*
 
+# Get rid of the pesky DS Store....
+*.DS_Store
 
 # Created by https://www.gitignore.io/api/web
 
