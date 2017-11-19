@@ -1,0 +1,87 @@
+body {
+  background-position: 50% 15%;
+  background-image: url("../img/background.png");
+}
+
+#minimcText {
+
+  width: 50%;
+  height: 20%;
+
+  min-width: 200px;
+  min-heigh: 100px;
+
+  max-width: 532px;
+  max-heigh: 117px;
+
+  margin: auto;
+  margin-top: 30px;
+
+  display: block;
+}
+
+#WIPText {
+
+  width: 30%;
+  height: 20%;
+
+  min-width: 200px;
+  min-height: 30px;
+
+  max-width: 496px;
+  max-height: 62px;
+
+  margin: auto;
+  margin-top: 20px;
+
+  display: block;
+}
+
+
+#notifyText {
+
+  width: 45%;
+  height: 30%;
+
+  min-width: 30px;
+  min-height: 20px;
+
+  max-width: 500px;
+  max-height: 171px;
+
+  margin: auto;
+  margin-top: 70px;
+
+  display: block;
+}
+
+#betaText {
+
+  width: 60%;
+  height: 30%;
+
+  min-width: 30px;
+  min-height: 20px;
+
+  max-width: 500px;
+  max-height: 171px;
+
+  margin: auto;
+  margin-top: 20px;
+
+  display: block;
+}
+
+#betterMiniMcLogo {
+
+  width: 40%;
+  height: 40%;
+
+  max-width: 200px;
+  max-height: 200px;
+
+  margin: auto;
+  margin-top: 5%;
+
+  display: block;
+}
