@@ -1,0 +1,3 @@
+# Allow all da robots :3
+User-agent: *
+Disallow:
