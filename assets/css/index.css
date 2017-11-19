@@ -1,13 +1,6 @@
 body {
   background-position: 50% 15%;
-  background-image: url("../img/background.png");
-}
-
-
-.twitter-follow-button {
-  margin: auto;
-  margin-top: 70px;
-  display: block;
+  background-image: url("../img/background.jpg");
 }
 
 
@@ -91,5 +84,12 @@ body {
   margin: auto;
   margin-top: 5%;
 
+  display: block;
+}
+
+
+.twitter-follow-button {
+  margin: auto;
+  margin-top: 70px;
   display: block;
 }
