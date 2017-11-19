@@ -1,0 +1,25 @@
+
+# Ignore all by default
+*
+
+# Unignore self and assets :P
+!.gitignore
+!assets
+
+
+# Created by https://www.gitignore.io/api/web
+
+### Web Reversed ###
+!*.asp
+!*.cer
+!*.csr
+!*.css
+!*.htm
+!*.html
+!*.js
+!*.jsp
+!*.php
+!*.rss
+!*.xhtml
+
+# End of https://www.gitignore.io/api/web
