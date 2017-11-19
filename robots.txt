@@ -1,3 +1,6 @@
 # Allow all da robots :3
 User-agent: *
 Disallow:
+
+
+Sitemap: http://www.miniminecraft.com/sitemap.xml
